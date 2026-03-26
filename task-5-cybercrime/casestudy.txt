@@ -1,0 +1,31 @@
+CASE STUDY: UPI / ONLINE PAYMENT FRAUD
+=======================================
+
+WHAT IS IT?
+-----------
+UPI (Unified Payments Interface) fraud is a type of financial cybercrime where attackers trick people into sending money or revealing sensitive payment credentials through deception. Unlike traditional bank fraud, UPI fraud does not require hacking. The victim is manipulated into doing everything themselves.
+
+
+HOW IT TYPICALLY HAPPENS (STEP BY STEP)
+----------------------------------------
+Step 1: A fraudster finds the victim's number, usually from an OLX listing, a job portal, or a social media post.
+
+Step 2: The attacker calls the victim pretending to be a buyer, an HR recruiter, or a government official offering a refund or prize money.
+
+Step 3: They send a "collect request" on the victim's UPI app, or share a QR code, telling the victim to "scan this to receive your money."
+
+Step 4: The victim scans the QR code or approves the collect request, not realising that this action sends money out rather than bringing it in.
+
+Step 5: The money is transferred instantly. UPI transactions are irreversible once completed.
+
+
+WHO IS USUALLY TARGETED?
+-------------------------
+College students selling second-hand items online, first-time job seekers, and people expecting refunds or government benefits are the most common targets. Essentially anyone who is unfamiliar with how UPI collect requests and QR codes actually work.
+
+
+CONSEQUENCES
+------------
+Victims typically lose anywhere from a few hundred to several thousand rupees in a matter of seconds. Beyond the financial loss, many victims feel embarrassed and do not report the incident, which allows the same fraudster to continue targeting others. In some cases, victims have also unknowingly shared their UPI PIN, leading to repeated unauthorised transactions.
+
+This is a realistic fictional scenario based on fraud patterns documented by cybercrime.gov.in and CERT-In advisories.
