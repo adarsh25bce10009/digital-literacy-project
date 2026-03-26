@@ -1,0 +1,11 @@
+Subject:	Summer Internship Application 
+To:	HR, XYZ company
+Body:	
+Respected Sir/ma’am,
+I am Adarsh Kumar Yadav, a first-year B.Tech student in CSE core at VIT Bhopal University. I am writing to express my interest in a summer internship opportunity at XYZ Company.
+I am particularly interested in this company because the company’s work domain aligns with my interests and I would enjoy doing the works which will help boost my productivity. I am eager to contribute, learn from an industry environment, and apply the technical foundations I am currently building at university.
+I have good experience in C++ and Python which is really important for the job.
+I would be grateful for the opportunity to discuss any available internship roles. Please find my GitHub profile at [link] for reference. I am available for a call or meeting at your convenience.
+Thank you for your time and consideration.
+Yours sincerely,
+Adarsh Kumar Yadav | 25BCE10009  |  CSE core
