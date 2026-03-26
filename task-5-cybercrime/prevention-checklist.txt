@@ -1,0 +1,47 @@
+STAY SAFE ONLINE: PREVENTION CHECKLIST
+For College Students in India
+=======================================
+
+
+GENERAL ONLINE SAFETY
+----------------------
+
+1. Use a strong, unique password for every important account. Do not use your name, date of birth, or college roll number as a password. A mix of letters, numbers, and symbols works best.
+
+2. Turn on two-factor authentication (2FA) on your email, social media, and any platform that offers it. This adds a second layer of protection even if someone gets your password.
+
+3. Never click on links sent through SMS, WhatsApp, or email from unknown numbers, even if the message claims to be from a bank, college, or government department. Go to the official website directly instead.
+
+4. Do not connect to public Wi-Fi at cafes, malls, or railway stations for anything sensitive like banking, email login, or entering passwords. Use your mobile data instead.
+
+5. Regularly check which apps have access to your camera, microphone, contacts, and location on your phone. Revoke permissions for apps that do not need them.
+
+6. Do not share OTPs with anyone, ever. No bank, UPI app, or government body will ever call you and ask for an OTP. Hang up immediately if someone does.
+
+
+UPI AND FINANCIAL SAFETY
+-------------------------
+
+7. Remember that scanning a QR code or approving a collect request on any UPI app sends money out of your account. You do not need to scan anything to receive money. If someone tells you to scan a code to get a payment, it is fraud.
+
+8. Always verify the UPI ID or phone number before sending money, even to someone you know. Fraudsters sometimes impersonate friends or family by creating similar-looking contact names.
+
+
+IDENTITY AND ACCOUNT SAFETY
+-----------------------------
+
+9. Do not post photos of your college ID card, Aadhaar card, or any government document on social media, even partially. These can be used for identity theft.
+
+10. If you receive a suspicious call, message, or email that pressures you to act immediately, stop and take a moment. Urgency is the most common tactic used in online fraud. Legitimate organisations will always give you time.
+
+
+=======================================
+REPORTING CHANNELS
+
+If you or someone you know has been a victim of cybercrime:
+
+National Cyber Crime Reporting Portal: cybercrime.gov.in
+Cyber Crime Helpline: 1930 (available 24x7, toll-free)
+
+Report as soon as possible. The faster a complaint is filed, the higher the chance of recovering lost money.
+=======================================
